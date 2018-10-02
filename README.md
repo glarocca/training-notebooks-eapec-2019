@@ -86,7 +86,7 @@ Raw cells provide a place in which you can write output directly. Raw cells
 are not evaluated by the notebook.
 
 
-#### Keyboard shortcuts
+### Keyboard shortcuts
 
 All actions in the notebook can be performed with the mouse, but keyboard
 shortcuts are also available for the most common ones. These are some of the
