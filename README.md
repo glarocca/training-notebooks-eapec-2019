@@ -8,9 +8,9 @@ https://indico.egi.eu/indico/event/3973/session/47/?slotId=0#20181010
 ## Accessing the service
 
 The training environment for the Notebooks is available at
- https://training.fedcloud-tf.fedcloud.eu
+ https://training.notebooks.egi.eu
 To log in just:
-1. Go to https://training.fedcloud-tf.fedcloud.eu
+1. Go to https://training.notebooks.egi.eu
 2. Start the authentication process by clicking on **Sign in with EGI Check-in**
    button
 
