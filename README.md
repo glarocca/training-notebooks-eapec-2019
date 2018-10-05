@@ -103,3 +103,12 @@ most common:
 
 1. [./00-first-notebook.ipynb] a very basic notebook to get started
 2. [./01-get-data-and-plot.ipynb] Getting data and doing a simple plot
+3. [./02-wind-nowcast.ipynb] Notebook that download GFS now- and forecast data
+   from NOAA's GrADS Data Server and plots wind speed and directional vectors
+   on a map for a timestamp closest to the current local time
+
+## Demo
+
+1. [./03-customizing.ipynb] and [./Dockerfile] installing new libraries and
+   creating custom kernels
+2. [./04-check-in.ipynb] Get information about yourself in Check-in
