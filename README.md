@@ -99,7 +99,7 @@ most common:
   using keyboard shortcuts.
 - `Enter` : Edit mode. In edit mode, you can edit text in cells.
 
-## Hands-on
+## Hands-on
 
 1. [./00-first-notebook.ipynb] a very basic notebook to get started
 2. [./01-get-data-and-plot.ipynb] Getting data and doing a simple plot
