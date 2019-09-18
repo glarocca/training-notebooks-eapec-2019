@@ -103,6 +103,6 @@ most common:
 
 A very basic notebook to get started
 
-2. [01-get-data-and-plot.ipynb](./training-climate-change/cckp_historical_temperature.ipynb) 
+2. [cckp_historical_temperature.ipynb](./training-climate-change/cckp_historical_temperature.ipynb) 
 
 Calculate the historical precipitation data derived from the Climate Research Unit (Mitchell et at, 2003) aggregated to country and basin levels.
