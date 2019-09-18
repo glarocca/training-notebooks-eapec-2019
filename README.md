@@ -99,10 +99,8 @@ most common:
 
 ## Hands-on
 
-1. `[00-first-notebook.ipynb](./00-first-notebook.ipynb)` 
-
+1. [00-first-notebook.ipynb](./00-first-notebook.ipynb) 
 A very basic notebook to get started
 
 2. [cckp_historical_temperature.ipynb](./training-climate-change/cckp_historical_temperature.ipynb) 
-
 Calculate the historical precipitation data derived from the Climate Research Unit (Mitchell et at, 2003) aggregated to country and basin levels.
