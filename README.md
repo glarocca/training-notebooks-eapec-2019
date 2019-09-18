@@ -99,7 +99,7 @@ most common:
 
 ## Hands-on
 
-1. [00-first-notebook.ipynb](./00-first-notebook.ipynb) 
+1. `[00-first-notebook.ipynb](./00-first-notebook.ipynb)` 
 
 A very basic notebook to get started
 
