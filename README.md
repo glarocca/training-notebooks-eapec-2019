@@ -12,7 +12,7 @@ The training environment for the Notebooks is available at:
  
 To log in just:
 1. Go to https://training.notebooks.egi.eu
-2. Start the authentication process by clicking on **Sign in with the EGI Check-in** button
+2. Start the authentication process by clicking on **Sign in with EGI Check-in** button
 
 ![Notebooks front](./front.png)
 
