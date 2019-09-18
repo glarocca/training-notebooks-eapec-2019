@@ -106,9 +106,3 @@ most common:
 3. [02-wind-nowcast.ipynb](./02-wind-nowcast.ipynb) Notebook that download GFS now- and forecast data
    from NOAA's GrADS Data Server and plots wind speed and directional vectors
    on a map for a timestamp closest to the current local time
-
-## Demo
-
-1. [03-customizing.ipynb](./03-customizing.ipynb) and [Dockerfile](./Dockerfile) installing new libraries and
-   creating custom kernels
-2. [04-check-in.ipynb](./04-check-in.ipynb) Get information about yourself in Check-in
