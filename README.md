@@ -1,8 +1,8 @@
-# EGI Notebooks training @ DI4R
+# EGI Notebooks training @ EaPEC 2019
 
 This repository is used as material for the following training session:
 
-https://indico.egi.eu/indico/event/3973/session/47/?slotId=0#20181010
+https://events.geant.org/event/2/
 
 
 ## Accessing the service
