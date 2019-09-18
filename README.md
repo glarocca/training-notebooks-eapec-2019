@@ -14,19 +14,19 @@ To log in just:
 1. Go to https://training.notebooks.egi.eu
 2. Start the authentication process by clicking on **Start your notebooks!** button
 
-![Notebooks front](./front.png)
+![Notebooks front](./imgs/front.png)
 
 3. Select the Identity Provider you belong to from the discovery page (as this
    is using EGI Check-in development, some of the Identity Providers may not be
    completely supported, so it's recommended to use _social identities_ (e.g.
    Google, Facebook, ORCID)
 
-![Sign in with Check-in](./checkin.png)
+![Sign in with Check-in](./imgs/checkin.png)
 
 4. You will see the basic interface once your personal notebook is started
 
 
-![Notebooks](./notebook.png)
+![Notebooks](./imgs/notebook.png)
 
 
 ## Launching a notebook
