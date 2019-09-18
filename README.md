@@ -100,4 +100,4 @@ most common:
 ## Hands-on
 
 1. [00-first-notebook.ipynb](./00-first-notebook.ipynb) a very basic notebook to get started
-2. [01-get-data-and-plot.ipynb](./01-get-data-and-plot.ipynb) Getting data and doing a simple plot
+2. [01-get-data-and-plot.ipynb](./training-climate-change/cckp_historical_temperature.ipynb) Getting data and doing a simple plot
