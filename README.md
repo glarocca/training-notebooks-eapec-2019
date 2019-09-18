@@ -26,25 +26,14 @@ To log in just:
 4. You will see the basic interface once your personal notebook is started
 
 
-<<<<<<< HEAD
-![JupyterLab interface in Notebooks](./notebook.png)
-=======
 ![Notebooks](./notebook.png)
->>>>>>> 859cb52452598f28ed270088f9c50c76266859e6
 
 
 ## Launching a notebook
 
-<<<<<<< HEAD
-Click on the New drop-down list, select Python 3 icon to launch your notebook with Python 3
-kernel from the Notebook menu. When you create this notebook, a new tab will be presented with 
-a notebook named `Untitled.ipynb`. You can easily rename it by right-clicking on the current name.
-=======
-Click on the New drop-down list, select Python 3 icon to launch your notebook 
-with Python 3 kernel from the Notebook menu. When you create this notebook, a 
-new tab will be presented with a notebook named `Untitled.ipynb`. You can easily 
-rename it by right-clicking on the current name.
->>>>>>> 859cb52452598f28ed270088f9c50c76266859e6
+Click on the "New" drop-down list, select Python 3 icon to launch your notebook with Python 3
+kernel from the Notebook menu. When you create this notebook, a new tab will be presented with a
+notebook named `Untitled.ipynb`. You can easily rename it by right-clicking on the current name.
 
 ### Structure of a notebook
 
