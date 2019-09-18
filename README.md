@@ -23,19 +23,17 @@ To log in just:
 
 ![Sign in with Check-in](./checkin.png)
 
-4. You will see the [JupyterLab](https://github.com/jupyterlab/jupyterlab)
-   interface once your personal notebook is started
+4. You will see the basic interface once your personal notebook is started
 
 
-![JupyterLab interface in Notebooks](./jupyterlab.png)
+![JupyterLab interface in Notebooks](./notebook.png)
 
 
 ## Launching a notebook
 
-Click on the Notebook > Python 3 icon to launch your notebook with Python 3
-kernel. When you create this notebook, a new tab will be presented with a
-notebook named `Untitled.ipynb`. You can easily rename it by right-clicking on
-the current name.
+Click on the New drop-down list, select Python 3 icon to launch your notebook with Python 3
+kernel from the Notebook menu. When you create this notebook, a new tab will be presented with 
+a notebook named `Untitled.ipynb`. You can easily rename it by right-clicking on the current name.
 
 ### Structure of a notebook
 
@@ -103,6 +101,3 @@ most common:
 
 1. [00-first-notebook.ipynb](./00-first-notebook.ipynb) a very basic notebook to get started
 2. [01-get-data-and-plot.ipynb](./01-get-data-and-plot.ipynb) Getting data and doing a simple plot
-3. [02-wind-nowcast.ipynb](./02-wind-nowcast.ipynb) Notebook that download GFS now- and forecast data
-   from NOAA's GrADS Data Server and plots wind speed and directional vectors
-   on a map for a timestamp closest to the current local time
